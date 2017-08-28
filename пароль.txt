@@ -1,0 +1,21 @@
+=====Tecstile=====
+почта: tecstile.od@gmail.com
+пароль: nW4XomB3NN
+
+
+=====ZRA=====
+логин: zra-administration
+пароль: DBnPHEqWjn
+
+--zra email (хостинг)---
+пароль: DBnPHEqWjn7
+
+
+=====Kalash=====
+логин: mykalash-admin
+пароль: yc6KgbYl
+
+
+=====auxincar=====
+логин: myauxincar-admin
+пароль: eC7HFc58
